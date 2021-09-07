@@ -4,7 +4,7 @@ author: Noah Krim
 assignment: Lab 01.5 - Base Converter  
 class: PCC CS066 - Barkeshli  
 
-Converts binary, octal, decimal, signed decimal, and hexadecimal numbers to each of the other bases.
+Converts binary, octal, decimal, signed decimal, and hexadecimal numbers of arbitrary length to each of the other bases. Uses digit-wise math performed on strings to avoid usual 64-bit integer boundaries.
 
 How to Run
 ----------
