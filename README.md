@@ -1,8 +1,10 @@
 Base Converter
 ==============
-author: Noah Krim
-assignment: Lab 01.5 - Base Converter
-class: PCC CS066 - Barkeshli
+author: Noah Krim  
+assignment: Lab 01.5 - Base Converter  
+class: PCC CS066 - Barkeshli  
+
+Converts binary, octal, decimal, signed decimal, and hexadecimal numbers to each of the other bases.
 
 How to Run
 ----------
